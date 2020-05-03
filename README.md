@@ -1,5 +1,7 @@
 # SincronizacaoRelogio
 
+Nathan Reiter, Jéssica Steinkback e Leonardo Conceição.
+
 Algoritmo usado para a sincronização interna de um grupo de computadores.
 - "Servidor de tempo" é ativo (master) e coleta os valores de relógios de outros (slaves).
 - Master usa estimativas para estimar o valor dos relógios dos computadores dentro dos grupos.
